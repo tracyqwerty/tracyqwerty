@@ -14,12 +14,20 @@ If you're interested in me, feel free to contact!😆
 
 ## COURSES
 
+| Name                                                         | Category         | Status  |
+| ------------------------------------------------------------ | ---------------- | ------- |
+| [OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System | Working |
+|                                                              |                  |         |
+|                                                              |                  |         |
+
+
+
+## Projects
+
 | Name | Category | Status |
 | ---- | -------- | ------ |
 |      |          |        |
 |      |          |        |
 |      |          |        |
-
-
 
 ## FLAGS
