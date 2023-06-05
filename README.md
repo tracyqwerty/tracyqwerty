@@ -12,17 +12,23 @@ If you're interested in me, feel free to contact!😆
 
 
 
+## BOOKS
+
+| Name                                                         | Category              | Status | Projects |
+| ------------------------------------------------------------ | --------------------- | ------ | -------- |
+| [OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System      | 17/57  | Pending  |
+| CSAPP                                                        | Computer Architecture |        |          |
+| OSC(The Dinosaur Book)                                       | Operating System      |        |          |
+
 ## COURSES
 
-| Name                                                         | Category         | Status  |
-| ------------------------------------------------------------ | ---------------- | ------- |
-| [OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System | Working |
-|                                                              |                  |         |
-|                                                              |                  |         |
+| Name | Category | Status |
+| ---- | -------- | ------ |
+|      |          |        |
+|      |          |        |
+|      |          |        |
 
-
-
-## Projects
+## PROJECTS
 
 | Name | Category | Status |
 | ---- | -------- | ------ |
