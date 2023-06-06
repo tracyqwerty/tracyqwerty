@@ -12,21 +12,27 @@ If you're interested in me, feel free to contact!😆
 
 
 
+⌛️Means 'Pending'.
+
+💡 Means 'recently working on'.
+
+⭐️ Means 'Finished'.
+
 ## BOOKS
 
 | Name                                                         | Category              | Status | Projects |
 | ------------------------------------------------------------ | --------------------- | ------ | -------- |
-| [OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System      | 17/57  | Pending  |
+| 💡[OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System      | 17/57  | Pending  |
 | CSAPP                                                        | Computer Architecture |        |          |
-| OSC(The Dinosaur Book)                                       | Operating System      |        |          |
+| 💡OSC(The Dinosaur Book)                                      | Operating System      |        |          |
 
 ## COURSES
 
-| Name | Category | Status |
-| ---- | -------- | ------ |
-|      |          |        |
-|      |          |        |
-|      |          |        |
+| Name             | Category         | Status             |
+| ---------------- | ---------------- | ------------------ |
+| 💡Stanford CS106L | C++              | chapter8           |
+| MIT 6.S081       | Operating System | Environment Set Up |
+|                  |                  |                    |
 
 ## PROJECTS
 
@@ -35,5 +41,14 @@ If you're interested in me, feel free to contact!😆
 |      |          |        |
 |      |          |        |
 |      |          |        |
+
+## KNOWKEDGE SHARING SERIES
+| Name                                                         | Brief |
+| ------------------------------------------------------------ | ----- |
+| [cpp_knowledge_sharing](https://github.com/tracyqwerty/cpp_knowledge_sharing) |       |
+|                                                              |       |
+|                                                              |       |
+|                                                              |       |
+
 
 ## FLAGS
