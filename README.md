@@ -12,6 +12,8 @@ If you're interested in me, feel free to contact!😆
 
 
 
+To make it funnier, I'll use  plenty of emojis 😋
+
 ⌛️Means 'Pending'.
 
 💡 Means 'recently working on'.
@@ -20,27 +22,27 @@ If you're interested in me, feel free to contact!😆
 
 ## BOOKS
 
-| Name                                                         | Category              | Status | Projects |
-| ------------------------------------------------------------ | --------------------- | ------ | -------- |
-| 💡[OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System      | 17/57  | Pending  |
-| CSAPP                                                        | Computer Architecture |        |          |
-| 💡OSC(The Dinosaur Book)                                      | Operating System      |        |          |
+| Name                                                         | Category              | Status       | Projects |
+| ------------------------------------------------------------ | --------------------- | ------------ | -------- |
+| 💡[OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System      | 17/57 paging | Pending  |
+| CSAPP                                                        | Computer Architecture |              |          |
+| 💡OSC(The Dinosaur Book)                                      | Operating System      |              |          |
 
 ## COURSES
 
 | Name             | Category         | Status             |
 | ---------------- | ---------------- | ------------------ |
-| 💡Stanford CS106L | C++              | chapter8           |
+| 💡Stanford CS106L | C++              | chapter12          |
 | MIT 6.S081       | Operating System | Environment Set Up |
 |                  |                  |                    |
 
 ## PROJECTS
 
-| Name | Category | Status |
-| ---- | -------- | ------ |
-|      |          |        |
-|      |          |        |
-|      |          |        |
+| Name                                                | Brief                                 | Status  |
+| --------------------------------------------------- | ------------------------------------- | ------- |
+| [tracystl](https://github.com/tracyqwerty/tracystl) | A tiny C++ standard template library. | ongoing |
+|                                                     |                                       |         |
+|                                                     |                                       |         |
 
 ## KNOWKEDGE SHARING SERIES
 | Name                                                         | Brief |
