@@ -30,11 +30,11 @@ To make it funnier, I'll use  plenty of emojis 😋
 
 ## COURSES
 
-| Name             | Category         | Status             |
-| ---------------- | ---------------- | ------------------ |
-| 💡Stanford CS106L | C++              | chapter12          |
-| MIT 6.S081       | Operating System | Environment Set Up |
-|                  |                  |                    |
+| Name              | Category         | Status                         | Notes                   |
+| ----------------- | ---------------- | ------------------------------ | ----------------------- |
+| ⭐️ Stanford CS106L | C++              | Slides✅ Homework✅ Assignments❌ | Haven't read the manual |
+| MIT 6.S081        | Operating System | Environment Set Up             |                         |
+|                   |                  |                                |                         |
 
 ## PROJECTS
 
