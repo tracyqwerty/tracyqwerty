@@ -14,7 +14,7 @@ If you're interested in me, feel free to contact!😆
 
 To make it funnier, I'll use  plenty of emojis 😋
 
-⌛️Means 'Pending'.
+⌛ Means 'Pending'.
 
 💡 Means 'recently working on'.
 
@@ -30,19 +30,19 @@ To make it funnier, I'll use  plenty of emojis 😋
 
 ## COURSES
 
-| Name              | Category         | Status                         | Notes                   |
-| ----------------- | ---------------- | ------------------------------ | ----------------------- |
-| ⭐️ Stanford CS106L | C++              | Slides✅ Homework✅ Assignments❌ | Haven't read the manual |
-| MIT 6.S081        | Operating System | Environment Set Up             |                         |
-|                   |                  |                                |                         |
+| Name              | Category         | Status                         | Note                          |
+| ----------------- | ---------------- | ------------------------------ | ----------------------------- |
+| ⭐️ Stanford CS106L | C++              | Slides✅ Homework✅ Assignments❌ | *Haven't read the manual yet* |
+| MIT 6.S081        | Operating System | Environment Set Up             |                               |
+|                   |                  |                                |                               |
 
 ## PROJECTS
 
-| Name                                                | Brief                                 | Status  |
-| --------------------------------------------------- | ------------------------------------- | ------- |
-| [tracystl](https://github.com/tracyqwerty/tracystl) | A tiny C++ standard template library. | ongoing |
-|                                                     |                                       |         |
-|                                                     |                                       |         |
+| Name                                                 | Brief                                 | Status  |
+| ---------------------------------------------------- | ------------------------------------- | ------- |
+| 💡[tracystl](https://github.com/tracyqwerty/tracystl) | A tiny C++ standard template library. | ongoing |
+|                                                      |                                       |         |
+|                                                      |                                       |         |
 
 ## KNOWKEDGE SHARING SERIES
 | Name                                                         | Brief |
