@@ -30,11 +30,11 @@ To make it funnier, I'll use  plenty of emojis 😋
 
 ## COURSES
 
-| Name              | Category         | Status                         | Note                          |
-| ----------------- | ---------------- | ------------------------------ | ----------------------------- |
-| ⭐️ Stanford CS106L | C++              | Slides✅ Homework✅ Assignments❌ | *Haven't read the manual yet* |
-| MIT 6.S081        | Operating System | Environment Set Up             |                               |
-|                   |                  |                                |                               |
+| Name                                                       | Category         | Status                                                       | Note                          |
+| ---------------------------------------------------------- | ---------------- | ------------------------------------------------------------ | ----------------------------- |
+| ⭐️ [Stanford CS106L](http://web.stanford.edu/class/cs106l/) | C++              | Slides✅ Homework✅ Assignments（❕TODO:assign2 hashmap. better do it in tracystl as well.） | *Haven't read the manual yet* |
+| MIT 6.S081                                                 | Operating System | Environment Set Up                                           |                               |
+|                                                            |                  |                                                              |                               |
 
 ## PROJECTS
 
@@ -54,3 +54,5 @@ To make it funnier, I'll use  plenty of emojis 😋
 
 
 ## FLAGS
+
+* Navigate into VPN, learn its mechanism.
