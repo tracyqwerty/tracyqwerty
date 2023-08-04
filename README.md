@@ -1,7 +1,8 @@
 # README
 
-Hi everyone, I'm Tracy(Jiahe) Tian(田嘉禾), student of Fudan University. 😁
+Hi everyone, I'm Tracy(Jiahe) Tian(田嘉禾), student at Fudan University. 😁
 Here're some fun facts about me:
+
 * major in Computer Science 💻
 * an Acmer ☁️💡🎈
 * software engineer intern in Google Shanghai on summer 2022 🦴
