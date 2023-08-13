@@ -28,6 +28,8 @@ To make it funnier, I'll use  plenty of emojis 😋
 | 💡[OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System      | 17/57 paging | Pending  |
 | CSAPP                                                        | Computer Architecture |              |          |
 | 💡OSC(The Dinosaur Book)                                      | Operating System      |              |          |
+| ⭐ Elements of Programming Interviews                         | Interview             | Done         | /        |
+|                                                              |                       |              |          |
 
 ## COURSES
 
