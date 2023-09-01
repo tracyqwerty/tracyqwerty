@@ -23,13 +23,13 @@ To make it funnier, I'll use  plenty of emojis 😋
 
 ## BOOKS
 
-| Name                                                         | Category              | Status       | Projects |
-| ------------------------------------------------------------ | --------------------- | ------------ | -------- |
-| 💡[OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System      | 17/57 paging | Pending  |
-| CSAPP                                                        | Computer Architecture |              |          |
-| 💡OSC(The Dinosaur Book)                                      | Operating System      |              |          |
-| ⭐ Elements of Programming Interviews                         | Interview             | Done         | /        |
-|                                                              |                       |              |          |
+| Name                                                         | Category              | Status                       | Projects |
+| ------------------------------------------------------------ | --------------------- | ---------------------------- | -------- |
+| ⭐️ [OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System      | Finished! I like this book 😋 | Pending  |
+| CSAPP                                                        | Computer Architecture |                              |          |
+| 💡OSC(The Dinosaur Book)                                      | Operating System      |                              |          |
+| ⭐ Elements of Programming Interviews                         | Interview             | Done                         | /        |
+|                                                              |                       |                              |          |
 
 ## COURSES
 
