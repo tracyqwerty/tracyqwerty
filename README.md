@@ -23,37 +23,42 @@ To make it funnier, I'll use  plenty of emojis 😋
 
 ## BOOKS
 
-| Name                                                         | Category              | Status                       | Projects |
-| ------------------------------------------------------------ | --------------------- | ---------------------------- | -------- |
-| ⭐️ [OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System      | Finished! I like this book 😋 | Pending  |
-| CSAPP                                                        | Computer Architecture |                              |          |
-| 💡OSC(The Dinosaur Book)                                      | Operating System      |                              |          |
-| ⭐ Elements of Programming Interviews                         | Interview             | Done                         | /        |
-|                                                              |                       |                              |          |
+| Name                                                         | Category              | Status | Projects |
+| ------------------------------------------------------------ | --------------------- | ------ | -------- |
+| [OSTEP](https://github.com/tracyqwerty/operating_system_knowledge_sharing/tree/main/OSTEP) | Operating System      | ⭐️      | Pending  |
+| CSAPP                                                        | Computer Architecture |        |          |
+| OSC(The Dinosaur Book)                                       | Operating System      | 💡      |          |
+| Elements of Programming Interviews                           | LeetCode              | ⭐️      | /        |
+| DDIA                                                         | Database              | 💡      |          |
+| [LeetCode 101](https://github.com/changgyhub/leetcode_101/tree/master) | LeetCode              | 💡      |          |
+|                                                              |                       |        |          |
 
 ## COURSES
 
-| Name                                                       | Category         | Status                                                       | Note                          |
-| ---------------------------------------------------------- | ---------------- | ------------------------------------------------------------ | ----------------------------- |
-| ⭐️ [Stanford CS106L](http://web.stanford.edu/class/cs106l/) | C++              | Slides✅ Homework✅ Assignments（❕TODO:assign2 hashmap. better do it in tracystl as well.） | *Haven't read the manual yet* |
-| MIT 6.S081                                                 | Operating System | Environment Set Up                                           |                               |
-|                                                            |                  |                                                              |                               |
+| Name                                                     | Category         | Status                                                       | Note                          |
+| -------------------------------------------------------- | ---------------- | ------------------------------------------------------------ | ----------------------------- |
+| [Stanford CS106L](http://web.stanford.edu/class/cs106l/) | C++              | Slides✅ Homework✅ Assignments（❕TODO:assign2 hashmap. better do it in tracystl as well.） | *Haven't read the manual yet* |
+| MIT 6.S081                                               | Operating System | Environment Set Up                                           |                               |
+| Stanford CS224N                                          | NLP              |                                                              |                               |
 
 ## PROJECTS
 
-| Name                                                 | Brief                                 | Status  |
-| ---------------------------------------------------- | ------------------------------------- | ------- |
-| 💡[tracystl](https://github.com/tracyqwerty/tracystl) | A tiny C++ standard template library. | ongoing |
-|                                                      |                                       |         |
-|                                                      |                                       |         |
+| Name                                                | Brief                                 | Status |
+| --------------------------------------------------- | ------------------------------------- | ------ |
+| [trason](https://github.com/tracyqwerty/trason)     | A toy json parser using modern cpp    | ⭐️      |
+| [tracystl](https://github.com/tracyqwerty/tracystl) | A tiny C++ standard template library. | 💡      |
+|                                                     |                                       |        |
 
 ## KNOWKEDGE SHARING SERIES
 | Name                                                         | Brief |
 | ------------------------------------------------------------ | ----- |
 | [cpp_knowledge_sharing](https://github.com/tracyqwerty/cpp_knowledge_sharing) |       |
-|                                                              |       |
-|                                                              |       |
-|                                                              |       |
+| [multithreading_knowledge_sharing](https://github.com/tracyqwerty/multithreading_knowledge_sharing) |       |
+| [system_design_knowledge_sharing](https://github.com/tracyqwerty/system_design_knowledge_sharing) |       |
+| [operating_system_knowledge_sharing](https://github.com/tracyqwerty/operating_system_knowledge_sharing) |       |
+| [computer_architecture_knowledge_sharing](https://github.com/tracyqwerty/computer_architecture_knowledge_sharing) |       |
+| computer_network                                             |       |
+| database                                                     |       |
 
 
 ## FLAGS
