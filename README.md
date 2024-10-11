@@ -37,13 +37,13 @@ To make it funnier, I'll use  plenty of emojis 😋
 
 ## COURSES
 
-| Name                                                     | Category         | Status                                                       | Note                          |
-| -------------------------------------------------------- | ---------------- | ------------------------------------------------------------ | ----------------------------- |
-| [Stanford CS106L](http://web.stanford.edu/class/cs106l/) | C++              | Slides✅ Homework✅ Assignments（❕TODO:assign2 hashmap. better do it in tracystl as well.） | *Haven't read the manual yet* |
-| MIT 6.S081                                               | Operating System | Environment Set Up                                           |                               |
-| Stanford CS224N                                          | NLP              |                                                              |                               |
-|                                                          |                  |                                                              |                               |
-|                                                          |                  |                                                              |                               |
+| Name                                                         | Category         | Status                                                       | Note                          |
+| ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | ----------------------------- |
+| [Stanford CS106L](http://web.stanford.edu/class/cs106l/)     | C++              | Slides✅ Homework✅ Assignments（❕TODO:assign2 hashmap. better do it in tracystl as well.） | *Haven't read the manual yet* |
+| MIT 6.S081                                                   | Operating System | Environment Set Up                                           |                               |
+| Stanford CS224N                                              | NLP              |                                                              |                               |
+| [MIT 15.S50]([poker course](https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/)) | Poker            |                                                              | Nicee                         |
+|                                                              |                  |                                                              |                               |
 
 ## PROJECTS
 
