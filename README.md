@@ -1,6 +1,6 @@
 # README
 
-Hi everyone, I'm Tracy(Jiahe) Tian(田嘉禾), student at Fudan University. 😁
+Hi everyone, I'm Tracy(Jiahe) Tian(田嘉禾)😁
 Here're some fun facts about me:
 
 
@@ -8,7 +8,8 @@ Here're some fun facts about me:
 * ex-Acmer ☁️💡🎈
 * software engineer intern at Google Shanghai on summer 2022 🦴
 * quant dev intern at QRT on summer 2023 🧊
-* research intern at UCSD currently 🧪
+* research intern at UCSD 🧪
+* incoming quant dev intern at 🤫
 * writing✏️/painting🖌️/reading(Milan Kundela&García Márquez's big fan!)👨/skateboard🛹/ukulele🎸/climbing(other outdoor activities are also welcome)🧗‍♀️/always exploring new things!🕶️
 
 If you're interested in me, feel free to contact!😆
